@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#banner {
+
+width:1024px;
+height:200px;
+background-color:#000000;
+border-top:solid 1px;
+border-left:solid 1px;
+border-right:solid 1px;
+background-image:url(../imagens%20banner/ESPUMA%20SITE.png);
+
+}
+
+#menu {
+
+width:1024px;
+height:40px;
+background-color:#333333;
+border-left:solid 1px;
+border-right:solid 1px;
+border-top:solid 1px;
+
+}
+
+
+#corpo{
+
+width:1024px;
+height:620px;
+border-left:solid 1px;
+border-right:solid 1px;
+}
+
+#c1{
+
+width:824px;
+height:620px;
+float:left;
+
+}
+
+#c2 {
+
+width:200px;
+height:620px;
+float:right;
+background-image:url(../imagens%20banner/ESPUMA%20SITE%202.png);
+
+
+
+
+}
+
+#rodape{
+width:1024px;
+height:40px;
+font-size:20px;
+background-color:#CCCCCC;
+
+border-left:solid 1px;
+border-right:solid 1px;
+border-top:solid 1px;
+border-bottom:solid 1px;
+
+
+
+}
+
+
+a:visited {
+	text-decoration:none;
+	color: #03C;
+
+
+}
+
+body {
+width:1024px;
+height:900px;
+azimuth:center;
+
+
+}

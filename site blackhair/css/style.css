@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#menu {
+width:900px;
+height:30px;
+background-color:#FFFFFF;
+border-left:solid 1px;
+border-right:solid 1px;
+float:center;
+
+}
+
+#canto {
+width:175px;
+height:741px;
+background-color:#FFFFFF;
+float:left;
+
+border-top:solid 1px;
+border-left:solid 1px;
+
+}
+
+#banner {
+width:900px;
+height:170px;
+float:center;
+background-color:#FFFFFF;
+
+border-top:solid 1px;
+border-left:solid 1px;
+border-right:solid 1px;
+background-image:url(../imagenscanto/fundobanner2copy.png);
+background-position:right;
+background-repeat:no-repeat;
+}
+
+#corpo{
+height:542px;
+width:900px;
+float:center;
+border-bottom:solid 1px;
+background-color:#FFFFFF;
+border-left:solid 1px;
+border-right:solid 1px;
+}
+
+#rodape{
+width:900px;
+height:25px;
+float:left;
+border-bottom:solid 1px;
+border-top:solid 1px;
+border-left:solid 1px;
+border-right:solid 1px;
+}
+
+
+
+body {
+width:1024px;
+height:768px;
+background-color:#FF6600;
+}
